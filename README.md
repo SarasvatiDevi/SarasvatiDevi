@@ -1,16 +1,25 @@
-## Hi there 👋
+# Sarasvati Devi
+### AI/ML Developer · Computer Vision & NLP · Sukkur, Pakistan
 
-<!--
-**SarasvatiDevi/SarasvatiDevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Artificial Intelligence @ Aror University · 2 Internships · 
+Research under submission
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+`Python` `TensorFlow` `PyTorch` `OpenCV` `scikit-learn`
+
+---
+
+## 🚀 Projects
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Sign Language Detection](https://github.com/SarasvatiDevi/Sign_LAnguage_Detection) | Real-time 20-class gesture recognition on self-collected dataset | Python, TensorFlow, OpenCV |
+| [University Chatbot](https://github.com/SarasvatiDevi/Aror_university_Chatbot_Project) | NLP-powered student query automation | Python, NLP |
+| Brain Tumor MRI Classification | CNN transfer learning research · Under Submission | TensorFlow, Keras |
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sarasvati-devi-07251b293)
+· f23ari17@aror.edu.pk
